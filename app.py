@@ -1,5 +1,6 @@
 from flask import Flask, render_template, request, jsonify
 import pandas as pd
+import re
 
 
 import model.fuzzy as fuzzy_logic
@@ -11,7 +12,7 @@ app = Flask(__name__)
 print("--- [Server] Memuat Data... ---")
 
 try:
-        # Memuat data yang sudah di-cluster sebelumnya
+        # Memuat data
         df = pd.read_csv('Data/data_berlabel.csv')
     
     # Jalankan Fuzzy Logic
@@ -50,35 +51,47 @@ def get_bot_response(user_msg):
         if df.empty:
             return "Maaf, data sedang tidak tersedia."
 
+        n = 3 # Default
+        match = re.search(r'\d+', msg) # Cari satu atau lebih digit
+        if match:
+            try:
+                num_requested = int(match.group(0))
+                if num_requested > 0 and num_requested <= len(df): # Pastikan angkanya valid
+                    n = num_requested
+            except (ValueError, IndexError):
+                pass # Abaikan jika tidak bisa di-parse, pakai default
+
+
         # A. User tanya rekomendasi umum
         if "rekomendasi" in msg or "saran" in msg or "makan apa" in msg:
-            top_3 = df.sort_values(by='Fuzzy_Score', ascending=False).head(3)
-            names = top_3['Tempat_Makan'].tolist()
-            return f"Halo! Berikut tempat 3 tempat rekomendasi: <b>{', '.join(names)}</b>."
+            top_places = df.sort_values(by='Fuzzy_Score', ascending=False).head(n)
+            names = top_places['Tempat_Makan'].tolist()
+            return f"Halo! Berikut {len(names)} tempat rekomendasi terbaik: <b>{', '.join(names)}</b>."
 
         # B. User cari yang MURAH (Logic pakai Biaya_Angka)
-        elif "murah" in msg or "hemat" in msg:
-            cheap = df[df['Biaya_Angka'] <= 15000].sort_values(by='Fuzzy_Score', ascending=False).head(3)
+        elif "murah" in msg or "hemat" in msg or "terjangkau" in msg:
+            cheap = df[df['Biaya_Angka'] <= 15000].sort_values(by='Fuzzy_Score', ascending=False).head(n)
             names = cheap['Tempat_Makan'].tolist()
             if not names: return "Waduh, belum nemu yang murah banget nih."
-            return f"Buat yang dompet mahasiswa (di bawah 15rb), coba ke: <b>{', '.join(names)}</b>."
+            return f"Buat yang dompet mahasiswa (di bawah 15rb), ini {len(names)} rekomendasinya: <b>{', '.join(names)}</b>."
 
         # C. User cari yang ENAK (Rating Rasa)
-        elif "enak" in msg or "lezat" in msg:
-            tasty = df[df['Rating_Rasa'] >= 4.5].sort_values(by='Fuzzy_Score', ascending=False).head(3)
+        elif "enak" in msg or "lezat" in msg or "rasa" in msg:
+            tasty = df[df['Rating_Rasa'] >= 4.5].sort_values(by='Fuzzy_Score', ascending=False).head(n)
             names = tasty['Tempat_Makan'].tolist()
-            return f"Kalau cari rasa juara (Rating tinggi), rekomendasi saya: <b>{', '.join(names)}</b>."
+            if not names: return "Tidak ada tempat dengan rating rasa di atas 4.5 saat ini."
+            return f"Kalau cari rasa juara (Rating tinggi), ini {len(names)} rekomendasi saya: <b>{', '.join(names)}</b>."
 
         # D. User cari tempat NONGKRONG / WIFI
         elif "nongkrong" in msg or "wifi" in msg or "nugas" in msg:
-            cozy = df[df['Cluster_Label'] == "Premium/Nongkrong"].head(3)
+            cozy = df[df['Cluster_Label'] == "Premium/Nongkrong"].sort_values(by='Fuzzy_Score', ascending=False).head(n)
             names = cozy['Tempat_Makan'].tolist()
             if not names: return "Belum ada data tempat nongkrong yang pas."
-            return f"Buat nugas atau nongkrong nyaman, coba cek: <b>{', '.join(names)}</b>."
+            return f"Buat nugas atau nongkrong nyaman, ini {len(names)} rekomendasinya: <b>{', '.join(names)}</b>."
 
-        # E. Default Response (Gak ngerti)
+        # E. Default Response
         else:
-            return "Maaf, saya bot sederhana. Coba tanya 'rekomendasi', 'tempat murah', atau 'tempat nugas'."
+            return "Maaf, saya bot sederhana. Coba tanya 'rekomendasi', 'tempat murah', atau 'tempat nugas' 'harga'."
 
     except Exception as e:
         print(f"Bot Error: {e}")

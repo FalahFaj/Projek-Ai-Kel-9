@@ -18,11 +18,6 @@ def clean_data(input_path, output_path):
         print("Pastikan file 'data_mentah.csv' ada di dalam direktori 'Data'.")
         return
 
-    # CATATAN: Logika untuk mengubah nama kolom dan memproses 'Nama_warung_lainnya',
-    # 'Timestamp', dan 'Nama' telah dihapus karena kolom-kolom tersebut
-    # tidak ada di file 'Data/data_mentah.csv' yang sekarang.
-    # Sepertinya file tersebut sudah melalui pembersihan sebelumnya.
-
     # Hapus spasi di awal dan akhir dari 'Tempat_Makan'
     if 'Tempat_Makan' in df.columns:
         df['Tempat_Makan'] = df['Tempat_Makan'].str.strip()
