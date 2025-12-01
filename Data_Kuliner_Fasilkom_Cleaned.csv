@@ -1,0 +1,379 @@
+Gender,Porsi,Biaya,Rating_Rasa,Rating_Nyaman,Wifi,Colokan,Waktu_Tunggu,Kategori_Harga,Rekomendasi,Tempat_Makan,Jarak_Meter
+Laki-laki,1 porsi,10000,5,5,Tidak ada,Tidak ada,Sedang (10-20 menit),Murah,Ya,Pak Os,3000.0
+Perempuan,1 porsi,10000,5,5,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Geprek Uye,1000.0
+Laki-laki,1 porsi,10000,4,5,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Warung Kuning,500.0
+Perempuan,1 porsi,18000,4,4,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Adat Kos,2000.0
+Laki-laki,1 porsi,10000,5,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Barokah,5000.0
+Laki-laki,1.5 porsi,7500,5,4,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Warung Bu Sherly/Warung Pojok,1000.0
+Laki-laki,1 porsi,6000,4,2,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Belakang Polije,3000.0
+Laki-laki,1 porsi,16000,5,1,Ada tapi lemot,Tidak ada,Sedang (10-20 menit),Sedang,Ya,Kantin Perpus Unej,10000.0
+Perempuan,1 porsi,8000,3,2,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Warung Ijo Nias,1500.0
+Laki-laki,1 porsi,7000,5,4,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Warung Barokah,1100.0
+Laki-laki,1 porsi,12000,3,4,Ada tapi lemot,Ada banyak,Sedang (10-20 menit),Sedang,Ya,Kulos,1600.0
+Laki-laki,1 porsi,13000,5,4,Ada dan cepat,Ada banyak,Lama (> 20 menit),Murah,Ya,Kulos,3000.0
+Laki-laki,1 porsi,8000,3,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Garahan,300.0
+Laki-laki,1 porsi,14000,5,5,Ada tapi lemot,Ada banyak,Sedang (10-20 menit),Sedang,Ya,Kulos,3000.0
+Laki-laki,1 porsi,10000,5,2,Ada dan cepat,Ada beberapa,Sedang (10-20 menit),Murah,Ya,Kantin Fasilkom,0.0
+Laki-laki,1 porsi,13000,5,2,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Warung Ijo Nias,1500.0
+Laki-laki,1 porsi,9000,4,4,Tidak ada,Ada beberapa,Cepat (< 10 menit),Murah,Ya,Nasi Padang Riau,3200.0
+Laki-laki,1 porsi,13000,4,4,Tidak ada,Tidak ada,Cepat (< 10 menit),Sedang,Ya,Warteg Kharisma,2500.0
+Laki-laki,1 porsi,15000,5,5,Ada tapi lemot,Tidak ada,Cepat (< 10 menit),Sedang,Ya,Kantin Perpus Unej,100.0
+Perempuan,1 porsi,15000,5,2,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Geprek Lek Djo,2700.0
+Perempuan,1 porsi,15000,5,2,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Warung Bu Jutek,700.0
+Laki-laki,1.5 porsi,10000,5,2,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Warung Ndelik,1000.0
+Laki-laki,1 porsi,13000,4,4,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Ayam Geprek Sai,1400.0
+Perempuan,1 porsi,14000,4,4,Ada tapi lemot,Ada banyak,Sedang (10-20 menit),Sedang,Ya,Kulos,3000.0
+Laki-laki,1 porsi,25000,5,5,Ada dan cepat,Ada banyak,Lama (> 20 menit),Mahal,Ya,Gudeg Lumintu,3200.0
+Perempuan,1 porsi,10000,3,3,Ada tapi lemot,Ada beberapa,Cepat (< 10 menit),Murah,Tidak,Kantin Fasilkom,0.0
+Laki-laki,1.5 porsi,12000,5,2,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Warung Ijo Nias,1500.0
+Perempuan,1 porsi,18000,4,5,Ada dan cepat,Ada banyak,Sedang (10-20 menit),Sedang,Ya,Excelso Express (Perpus),1100.0
+Laki-laki,1 porsi,11000,4,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Lalapan Cinta Mastrip,650.0
+Perempuan,1 porsi,10000,4,3,Tidak ada,Tidak ada,Sedang (10-20 menit),Murah,Ya,Geprek Uye,1450.0
+Laki-laki,1 porsi,35000,5,5,Ada dan cepat,Ada banyak,Sedang (10-20 menit),Mahal,Ya,Solaria Roxy,3800.0
+Perempuan,0.5 porsi,20000,4,5,Ada dan cepat,Ada banyak,Lama (> 20 menit),Sedang,Ya,Kopi Kenangan (Jl. Jawa),900.0
+Laki-laki,2 porsi,15000,5,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Warung Bu Sherly/Warung Pojok,1250.0
+Perempuan,1 porsi,12000,4,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Bakso Solo (Jl. Sumatera),1800.0
+Laki-laki,1 porsi,13000,4,4,Ada tapi lemot,Ada banyak,Sedang (10-20 menit),Sedang,Ya,Kulos,3000.0
+Perempuan,1 porsi,28000,5,5,Ada dan cepat,Ada beberapa,Sedang (10-20 menit),Mahal,Ya,Pizza Hut Delivery (Sumatera),2200.0
+Laki-laki,1 porsi,8000,3,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Tidak,Warung Barokah,1100.0
+Perempuan,1 porsi,15000,4,4,Ada tapi lemot,Ada beberapa,Sedang (10-20 menit),Sedang,Ya,Warkop Wolu Pitu,750.0
+Laki-laki,1.5 porsi,10000,5,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Soto Ayam Lamongan (Kalimantan),400.0
+Perempuan,1 porsi,16000,4,5,Ada tapi lemot,Ada beberapa,Lama (> 20 menit),Sedang,Ya,Kantin Perpus Unej,100.0
+Laki-laki,1 porsi,17000,5,4,Tidak ada,Tidak ada,Sedang (10-20 menit),Sedang,Ya,Mie Apong (Jl. Sumatera),1300.0
+Laki-laki,1 porsi,9000,3,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Warung Tegal (Depan Unej),500.0
+Perempuan,1 porsi,22000,4,5,Ada dan cepat,Ada banyak,Lama (> 20 menit),Mahal,Ya,Legacy Coffee,2600.0
+Laki-laki,2 porsi,16000,5,2,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Warung Ijo Nias,1500.0
+Laki-laki,1 porsi,13000,4,4,Ada tapi lemot,Ada beberapa,Sedang (10-20 menit),Murah,Ya,Seblak Bloom,900.0
+Perempuan,1 porsi,40000,5,5,Ada dan cepat,Ada banyak,Sedang (10-20 menit),Mahal,Ya,Kfc Gajah Mada,2500.0
+Laki-laki,1 porsi,18000,4,3,Tidak ada,Tidak ada,Sedang (10-20 menit),Sedang,Ya,Adat Kos,2500.0
+Laki-laki,1 porsi,12000,4,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Soto Ayam Lamongan (Kalimantan),600.0
+Perempuan,1 porsi,10000,5,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Lalapan Cak Riyadi,400.0
+Laki-laki,1.5 porsi,13000,4,2,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Warung Ijo Nias,1500.0
+Perempuan,1 porsi,10000,3,3,Ada tapi lemot,Ada beberapa,Sedang (10-20 menit),Murah,Ya,Kantin Fasilkom,0.0
+Laki-laki,1 porsi,15000,5,4,Tidak ada,Tidak ada,Sedang (10-20 menit),Sedang,Ya,Mie Gacoan (Sumatera),1200.0
+Perempuan,1 porsi,11000,4,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Geprek Uye,1450.0
+Laki-laki,1 porsi,38000,5,5,Ada dan cepat,Ada banyak,Cepat (< 10 menit),Mahal,Ya,Kfc Gajah Mada,2600.0
+Perempuan,1 porsi,15000,4,4,Ada tapi lemot,Ada banyak,Sedang (10-20 menit),Sedang,Ya,Kulos,3000.0
+Laki-laki,2 porsi,16000,5,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Warung Bu Sherly/Warung Pojok,1250.0
+Perempuan,1 porsi,12000,4,4,Ada tapi lemot,Ada beberapa,Sedang (10-20 menit),Murah,Ya,Seblak Bloom,850.0
+Laki-laki,1 porsi,25000,4,5,Ada dan cepat,Ada banyak,Lama (> 20 menit),Mahal,Ya,Excelso,2200.0
+Perempuan,1 porsi,9000,3,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Warung Tegal (Depan Unej),500.0
+Laki-laki,1 porsi,8000,3,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Tidak,Warung Barokah,1100.0
+Perempuan,0.5 porsi,18000,4,5,Ada dan cepat,Ada banyak,Lama (> 20 menit),Sedang,Ya,Kopi Kenangan,900.0
+Laki-laki,1.5 porsi,14000,4,4,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Ayam Geprek Sai,1400.0
+Laki-laki,1 porsi,18000,4,3,Tidak ada,Tidak ada,Sedang (10-20 menit),Sedang,Ya,Adat Kos,2500.0
+Perempuan,1 porsi,13000,4,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Rocket Chicken,350.0
+Laki-laki,1 porsi,16000,4,5,Ada tapi lemot,Ada beberapa,Sedang (10-20 menit),Sedang,Ya,Kantin Perpus Unej,100.0
+Perempuan,1 porsi,22000,5,5,Ada dan cepat,Ada banyak,Lama (> 20 menit),Mahal,Ya,Legacy Coffee,2600.0
+Laki-laki,1 porsi,11000,4,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Lalapan Cinta Mastrip,650.0
+Perempuan,1 porsi,35000,5,5,Ada dan cepat,Ada banyak,Sedang (10-20 menit),Mahal,Ya,Solaria Roxy,3800.0
+Laki-laki,1 porsi,9000,4,2,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Warung Ijo Nias,1500.0
+Perempuan,1 porsi,17000,5,4,Tidak ada,Tidak ada,Sedang (10-20 menit),Sedang,Ya,Mie Apong,1300.0
+Laki-laki,1 porsi,13000,4,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Bakso Solo,1800.0
+Perempuan,1 porsi,14000,4,4,Ada tapi lemot,Ada banyak,Sedang (10-20 menit),Sedang,Ya,Kulos,3000.0
+Laki-laki,1 porsi,28000,5,5,Ada dan cepat,Ada beberapa,Sedang (10-20 menit),Mahal,Ya,Pizza Hut Delivery,2200.0
+Laki-laki,1.5 porsi,15000,5,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Lalapan Cak Riyadi,600.0
+Perempuan,1 porsi,10000,4,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Geprek Uye,1450.0
+Laki-laki,1 porsi,9000,3,3,Ada tapi lemot,Ada beberapa,Cepat (< 10 menit),Murah,Ya,Kantin Fasilkom,0.0
+Perempuan,1 porsi,12000,4,4,Ada tapi lemot,Ada beberapa,Sedang (10-20 menit),Murah,Ya,Seblak Bloom,850.0
+Laki-laki,1.5 porsi,13000,5,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Warung Bu Sherly/Warung Pojok,1250.0
+Perempuan,1 porsi,16000,5,4,Tidak ada,Tidak ada,Sedang (10-20 menit),Sedang,Ya,Mie Gacoan (Sumatera),1200.0
+Laki-laki,1 porsi,7500,3,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Warung Barokah,1100.0
+Perempuan,1 porsi,40000,5,5,Ada dan cepat,Ada banyak,Cepat (< 10 menit),Mahal,Ya,Kfc Gajah Mada,2600.0
+Laki-laki,1 porsi,13000,4,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Rocket Chicken,350.0
+Perempuan,1 porsi,15000,4,5,Ada tapi lemot,Ada beberapa,Sedang (10-20 menit),Sedang,Ya,Kantin Perpus Unej,100.0
+Laki-laki,1 porsi,11000,4,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Lalapan Cinta Mastrip,650.0
+Perempuan,1 porsi,18000,4,3,Tidak ada,Tidak ada,Sedang (10-20 menit),Sedang,Ya,Adat Kos,2500.0
+Laki-laki,2 porsi,16000,5,2,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Warung Ijo Nias,1500.0
+Perempuan,1 porsi,20000,4,5,Ada dan cepat,Ada banyak,Lama (> 20 menit),Sedang,Ya,Kopi Kenangan,900.0
+Laki-laki,1 porsi,14000,4,4,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Ayam Geprek Sai,1400.0
+Perempuan,1 porsi,13000,4,4,Ada tapi lemot,Ada banyak,Sedang (10-20 menit),Sedang,Ya,Kulos,3000.0
+Laki-laki,1 porsi,9000,3,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Warung Tegal (Depan Unej),500.0
+Perempuan,1 porsi,35000,5,5,Ada dan cepat,Ada banyak,Sedang (10-20 menit),Mahal,Ya,Solaria Roxy,3800.0
+Laki-laki,1.5 porsi,17000,5,4,Tidak ada,Tidak ada,Sedang (10-20 menit),Sedang,Ya,Mie Apong,1300.0
+Perempuan,1 porsi,25000,4,5,Ada dan cepat,Ada banyak,Lama (> 20 menit),Mahal,Ya,Excelso,2200.0
+Laki-laki,1 porsi,8500,3,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Warung Barokah,1100.0
+Perempuan,1 porsi,12000,4,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Bakso Solo,1800.0
+Laki-laki,1 porsi,13000,4,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Soto Ayam Lamongan,600.0
+Perempuan,1 porsi,11000,3,3,Ada tapi lemot,Ada beberapa,Sedang (10-20 menit),Murah,Ya,Kantin Fasilkom,0.0
+Laki-laki,1 porsi,8000,5,2,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Warung Ijo Nias,1500.0
+Perempuan,1 porsi,10000,4,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Geprek Uye,1450.0
+Laki-laki,1.5 porsi,15000,5,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Lalapan Cak Riyadi,400.0
+Perempuan,1 porsi,18000,5,5,Ada dan cepat,Ada banyak,Sedang (10-20 menit),Sedang,Ya,Legacy Coffee,2600.0
+Laki-laki,1 porsi,14000,4,4,Ada tapi lemot,Ada banyak,Sedang (10-20 menit),Sedang,Ya,Kulos,3000.0
+Perempuan,1 porsi,9000,5,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Warung Bu Sherly/Warung Pojok,1250.0
+Laki-laki,1 porsi,12000,4,4,Ada tapi lemot,Ada beberapa,Sedang (10-20 menit),Murah,Ya,Seblak Bloom,850.0
+Perempuan,1 porsi,16000,5,4,Tidak ada,Tidak ada,Sedang (10-20 menit),Sedang,Ya,Mie Gacoan (Sumatera),1200.0
+Laki-laki,1 porsi,15000,4,5,Ada tapi lemot,Ada beberapa,Sedang (10-20 menit),Sedang,Ya,Kantin Perpus Unej,100.0
+Perempuan,1 porsi,28000,5,5,Ada dan cepat,Ada beberapa,Sedang (10-20 menit),Mahal,Ya,Pizza Hut Delivery,2200.0
+Laki-laki,1 porsi,8000,3,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Warung Barokah,1100.0
+Perempuan,1 porsi,13000,4,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Rocket Chicken,350.0
+Laki-laki,1 porsi,18000,4,3,Tidak ada,Tidak ada,Sedang (10-20 menit),Sedang,Ya,Adat Kos,2500.0
+Perempuan,0.5 porsi,22000,4,5,Ada dan cepat,Ada banyak,Lama (> 20 menit),Mahal,Ya,Kopi Kenangan,900.0
+Laki-laki,1 porsi,11000,4,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Lalapan Cinta Mastrip,650.0
+Perempuan,1 porsi,12000,4,2,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Warung Ijo Nias,1500.0
+Laki-laki,1 porsi,13000,4,4,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Ayam Geprek Sai,1400.0
+Perempuan,1 porsi,38000,5,5,Ada dan cepat,Ada banyak,Sedang (10-20 menit),Mahal,Ya,Solaria Roxy,3800.0
+Laki-laki,1 porsi,10000,3,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Warung Tegal (Depan Unej),500.0
+Perempuan,1 porsi,17000,5,4,Tidak ada,Tidak ada,Sedang (10-20 menit),Sedang,Ya,Mie Apong,1300.0
+Laki-laki,1 porsi,10000,3,3,Ada tapi lemot,Ada beberapa,Cepat (< 10 menit),Murah,Ya,Kantin Fasilkom,0.0
+Perempuan,1 porsi,35000,5,5,Ada dan cepat,Ada banyak,Cepat (< 10 menit),Mahal,Ya,Kfc Gajah Mada,2600.0
+Laki-laki,1 porsi,12000,4,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Bakso Solo,1800.0
+Perempuan,1 porsi,14000,4,4,Ada tapi lemot,Ada banyak,Sedang (10-20 menit),Sedang,Ya,Kulos,3000.0
+Laki-laki,2 porsi,15000,5,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Warung Bu Sherly/Warung Pojok,1250.0
+Perempuan,1 porsi,12000,4,4,Ada tapi lemot,Ada beberapa,Sedang (10-20 menit),Murah,Ya,Seblak Bloom,850.0
+Laki-laki,1 porsi,15000,5,4,Tidak ada,Tidak ada,Sedang (10-20 menit),Sedang,Ya,Mie Gacoan (Sumatera),1200.0
+Perempuan,1 porsi,11000,4,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Geprek Uye,1450.0
+Laki-laki,1 porsi,14000,5,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Lalapan Cak Riyadi,400.0
+Perempuan,1 porsi,25000,4,5,Ada dan cepat,Ada banyak,Lama (> 20 menit),Mahal,Ya,Excelso,2200.0
+Laki-laki,1 porsi,7500,3,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Warung Barokah,1100.0
+Perempuan,1 porsi,16000,4,5,Ada tapi lemot,Ada beberapa,Sedang (10-20 menit),Sedang,Ya,Kantin Perpus Unej,100.0
+Laki-laki,1 porsi,18000,4,3,Tidak ada,Tidak ada,Sedang (10-20 menit),Sedang,Ya,Adat Kos,2500.0
+Perempuan,1 porsi,13000,4,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Rocket Chicken,350.0
+Laki-laki,1.5 porsi,13000,4,2,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Warung Ijo Nias,1500.0
+Perempuan,1 porsi,19000,4,5,Ada dan cepat,Ada banyak,Lama (> 20 menit),Sedang,Ya,Kopi Kenangan,900.0
+Laki-laki,1 porsi,11000,4,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Lalapan Cinta Mastrip,650.0
+Perempuan,1 porsi,35000,5,5,Ada dan cepat,Ada banyak,Sedang (10-20 menit),Mahal,Ya,Solaria Roxy,3800.0
+Laki-laki,1 porsi,13000,4,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Soto Ayam Lamongan,600.0
+Perempuan,1 porsi,14000,4,4,Ada tapi lemot,Ada banyak,Sedang (10-20 menit),Sedang,Ya,Kulos,3000.0
+Laki-laki,1 porsi,17000,5,4,Tidak ada,Tidak ada,Sedang (10-20 menit),Sedang,Ya,Mie Apong,1300.0
+Perempuan,1 porsi,10000,3,3,Ada tapi lemot,Ada beberapa,Sedang (10-20 menit),Murah,Ya,Kantin Fasilkom,0.0
+Laki-laki,1 porsi,40000,5,5,Ada dan cepat,Ada banyak,Cepat (< 10 menit),Mahal,Ya,Kfc Gajah Mada,2600.0
+Perempuan,1 porsi,9000,5,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Warung Bu Sherly/Warung Pojok,1250.0
+Laki-laki,1 porsi,13000,4,4,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Ayam Geprek Sai,1400.0
+Perempuan,1 porsi,22000,5,5,Ada dan cepat,Ada banyak,Lama (> 20 menit),Mahal,Ya,Legacy Coffee,2600.0
+Laki-laki,1 porsi,8500,3,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Warung Barokah,1100.0
+Perempuan,1 porsi,12000,4,4,Ada tapi lemot,Ada beberapa,Sedang (10-20 menit),Murah,Ya,Seblak Bloom,850.0
+Laki-laki,1 porsi,12000,4,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Bakso Solo,1800.0
+Laki-laki,1 porsi,9000,3,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Warung Tegal (Depan Unej),500.0
+Perempuan,1 porsi,10000,4,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Geprek Uye,1450.0
+Laki-laki,1 porsi,8000,5,2,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Warung Ijo Nias,1500.0
+Perempuan,1 porsi,15000,5,4,Tidak ada,Tidak ada,Sedang (10-20 menit),Sedang,Ya,Mie Gacoan (Sumatera),1200.0
+Laki-laki,1 porsi,15000,4,5,Ada tapi lemot,Ada beberapa,Sedang (10-20 menit),Sedang,Ya,Kantin Perpus Unej,100.0
+Perempuan,1 porsi,28000,5,5,Ada dan cepat,Ada beberapa,Sedang (10-20 menit),Mahal,Ya,Pizza Hut Delivery,2200.0
+Laki-laki,1 porsi,11000,4,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Lalapan Cinta Mastrip,650.0
+Perempuan,1 porsi,18000,4,3,Tidak ada,Tidak ada,Sedang (10-20 menit),Sedang,Ya,Adat Kos,2500.0
+Laki-laki,1 porsi,13000,4,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Rocket Chicken,350.0
+Perempuan,1 porsi,14000,4,4,Ada tapi lemot,Ada banyak,Sedang (10-20 menit),Sedang,Ya,Kulos,3000.0
+Laki-laki,1.5 porsi,15000,5,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Lalapan Cak Riyadi,400.0
+Perempuan,1 porsi,25000,4,5,Ada dan cepat,Ada banyak,Lama (> 20 menit),Mahal,Ya,Excelso,2200.0
+Laki-laki,1.5 porsi,13000,5,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Warung Bu Sherly/Warung Pojok,1250.0
+Perempuan,1 porsi,18000,4,5,Ada dan cepat,Ada banyak,Lama (> 20 menit),Sedang,Ya,Kopi Kenangan,900.0
+Laki-laki,1 porsi,8000,3,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Warung Barokah,1100.0
+Perempuan,1 porsi,38000,5,5,Ada dan cepat,Ada banyak,Sedang (10-20 menit),Mahal,Ya,Solaria Roxy,3800.0
+Laki-laki,1 porsi,13000,4,4,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Ayam Geprek Sai,1400.0
+Perempuan,1 porsi,10000,3,3,Ada tapi lemot,Ada beberapa,Sedang (10-20 menit),Murah,Ya,Kantin Fasilkom,0.0
+Laki-laki,1 porsi,17000,5,4,Tidak ada,Tidak ada,Sedang (10-20 menit),Sedang,Ya,Mie Apong,1300.0
+Perempuan,1 porsi,12000,4,4,Ada tapi lemot,Ada beberapa,Sedang (10-20 menit),Murah,Ya,Seblak Bloom,850.0
+Laki-laki,1.5 porsi,13000,4,2,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Warung Ijo Nias,1500.0
+Perempuan,1 porsi,35000,5,5,Ada dan cepat,Ada banyak,Cepat (< 10 menit),Mahal,Ya,Kfc Gajah Mada,2600.0
+Laki-laki,1 porsi,13000,4,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Soto Ayam Lamongan,600.0
+Perempuan,1 porsi,10000,4,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Geprek Uye,1450.0
+Laki-laki,1 porsi,12000,4,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Bakso Solo,1800.0
+Perempuan,1 porsi,22000,5,5,Ada dan cepat,Ada banyak,Lama (> 20 menit),Mahal,Ya,Legacy Coffee,2600.0
+Laki-laki,1 porsi,9000,3,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Warung Tegal (Depan Unej),500.0
+Perempuan,1 porsi,14000,4,4,Ada tapi lemot,Ada banyak,Sedang (10-20 menit),Sedang,Ya,Kulos,3000.0
+Laki-laki,1 porsi,15000,5,4,Tidak ada,Tidak ada,Sedang (10-20 menit),Sedang,Ya,Mie Gacoan (Sumatera),1200.0
+Laki-laki,1 porsi,18000,4,3,Tidak ada,Tidak ada,Sedang (10-20 menit),Sedang,Ya,Adat Kos,2500.0
+Perempuan,1 porsi,11000,4,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Lalapan Cinta Mastrip,650.0
+Laki-laki,1 porsi,8500,5,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Warung Bu Sherly/Warung Pojok,1250.0
+Perempuan,1 porsi,15000,4,5,Ada tapi lemot,Ada beberapa,Sedang (10-20 menit),Sedang,Ya,Kantin Perpus Unej,100.0
+Laki-laki,1 porsi,13000,4,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Rocket Chicken,350.0
+Perempuan,1 porsi,28000,5,5,Ada dan cepat,Ada beberapa,Sedang (10-20 menit),Mahal,Ya,Pizza Hut Delivery,2200.0
+Laki-laki,1 porsi,8000,3,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Warung Barokah,1100.0
+Perempuan,1 porsi,12000,4,4,Ada tapi lemot,Ada beberapa,Sedang (10-20 menit),Murah,Ya,Seblak Bloom,850.0
+Laki-laki,1 porsi,14000,5,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Lalapan Cak Riyadi,400.0
+Perempuan,1 porsi,25000,4,5,Ada dan cepat,Ada banyak,Lama (> 20 menit),Mahal,Ya,Excelso,2200.0
+Laki-laki,1 porsi,9000,4,2,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Warung Ijo Nias,1500.0
+Perempuan,1 porsi,18000,4,5,Ada dan cepat,Ada banyak,Lama (> 20 menit),Sedang,Ya,Kopi Kenangan,900.0
+Laki-laki,1 porsi,13000,4,4,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Ayam Geprek Sai,1400.0
+Perempuan,1 porsi,40000,5,5,Ada dan cepat,Ada banyak,Cepat (< 10 menit),Mahal,Ya,Kfc Gajah Mada,2600.0
+Laki-laki,1 porsi,10000,4,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Geprek Uye,1450.0
+Perempuan,1 porsi,11000,3,3,Ada tapi lemot,Ada beberapa,Sedang (10-20 menit),Murah,Ya,Kantin Fasilkom,0.0
+Laki-laki,1 porsi,17000,5,4,Tidak ada,Tidak ada,Sedang (10-20 menit),Sedang,Ya,Mie Apong,1300.0
+Perempuan,1 porsi,14000,4,4,Ada tapi lemot,Ada banyak,Sedang (10-20 menit),Sedang,Ya,Kulos,3000.0
+Laki-laki,1 porsi,38000,5,5,Ada dan cepat,Ada banyak,Sedang (10-20 menit),Mahal,Ya,Solaria Roxy,3800.0
+Perempuan,1 porsi,11000,4,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Lalapan Cinta Mastrip,650.0
+Laki-laki,1.5 porsi,13000,5,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Warung Bu Sherly/Warung Pojok,1250.0
+Perempuan,1 porsi,22000,5,5,Ada dan cepat,Ada banyak,Lama (> 20 menit),Mahal,Ya,Legacy Coffee,2600.0
+Laki-laki,1 porsi,8500,3,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Warung Barokah,1100.0
+Perempuan,1 porsi,12000,4,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Bakso Solo,1800.0
+Laki-laki,1 porsi,13000,4,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Soto Ayam Lamongan,600.0
+Perempuan,1 porsi,8000,5,2,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Warung Ijo Nias,1500.0
+Laki-laki,1 porsi,18000,4,3,Tidak ada,Tidak ada,Sedang (10-20 menit),Sedang,Ya,Adat Kos,2500.0
+Perempuan,1 porsi,16000,4,5,Ada tapi lemot,Ada beberapa,Sedang (10-20 menit),Sedang,Ya,Kantin Perpus Unej,100.0
+Laki-laki,1 porsi,9000,3,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Warung Tegal (Depan Unej),500.0
+Perempuan,1 porsi,15000,5,4,Tidak ada,Tidak ada,Sedang (10-20 menit),Sedang,Ya,Mie Gacoan (Sumatera),1200.0
+Laki-laki,1 porsi,13000,4,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Rocket Chicken,350.0
+Perempuan,1 porsi,12000,4,4,Ada tapi lemot,Ada beberapa,Sedang (10-20 menit),Murah,Ya,Seblak Bloom,850.0
+Laki-laki,1 porsi,14000,5,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Lalapan Cak Riyadi,400.0
+Perempuan,1 porsi,19000,4,5,Ada dan cepat,Ada banyak,Lama (> 20 menit),Sedang,Ya,Kopi Kenangan,900.0
+Laki-laki,1 porsi,10000,4,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Geprek Uye,1450.0
+Perempuan,1 porsi,25000,4,5,Ada dan cepat,Ada banyak,Lama (> 20 menit),Mahal,Ya,Excelso,2200.0
+Laki-laki,1 porsi,13000,4,4,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Ayam Geprek Sai,1400.0
+Perempuan,1 porsi,15000,4,4,Ada tapi lemot,Ada banyak,Sedang (10-20 menit),Sedang,Ya,Kulos,3000.0
+Laki-laki,2 porsi,16000,5,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Warung Bu Sherly/Warung Pojok,1250.0
+Perempuan,1 porsi,35000,5,5,Ada dan cepat,Ada banyak,Cepat (< 10 menit),Mahal,Ya,Kfc Gajah Mada,2600.0
+Laki-laki,1 porsi,8000,3,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Warung Barokah,1100.0
+Perempuan,1 porsi,11000,4,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Lalapan Cinta Mastrip,650.0
+Laki-laki,1 porsi,17000,5,4,Tidak ada,Tidak ada,Sedang (10-20 menit),Sedang,Ya,Mie Apong,1300.0
+Perempuan,1 porsi,28000,5,5,Ada dan cepat,Ada beberapa,Sedang (10-20 menit),Mahal,Ya,Pizza Hut Delivery,2200.0
+Laki-laki,1 porsi,10000,3,3,Ada tapi lemot,Ada beberapa,Sedang (10-20 menit),Murah,Ya,Kantin Fasilkom,0.0
+Perempuan,1 porsi,38000,5,5,Ada dan cepat,Ada banyak,Sedang (10-20 menit),Mahal,Ya,Solaria Roxy,3800.0
+Laki-laki,1 porsi,9000,4,2,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Warung Ijo Nias,1500.0
+Perempuan,1 porsi,22000,5,5,Ada dan cepat,Ada banyak,Lama (> 20 menit),Mahal,Ya,Legacy Coffee,2600.0
+Laki-laki,1 porsi,12000,4,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Bakso Solo,1800.0
+Laki-laki,1 porsi,10000,3,3,Ada tapi lemot,Ada beberapa,Sedang (10-20 menit),Murah,Ya,Kantin Fasilkom,0.0
+Perempuan,1 porsi,12000,4,4,Ada tapi lemot,Ada beberapa,Sedang (10-20 menit),Murah,Ya,Seblak Bloom,850.0
+Laki-laki,1.5 porsi,13000,4,2,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Warung Ijo Nias,1500.0
+Perempuan,1 porsi,18000,5,5,Ada dan cepat,Ada banyak,Sedang (10-20 menit),Sedang,Ya,Legacy Coffee,2600.0
+Laki-laki,2 porsi,15000,5,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Warung Bu Sherly/Warung Pojok,1250.0
+Perempuan,1 porsi,15000,5,4,Tidak ada,Tidak ada,Sedang (10-20 menit),Sedang,Ya,Mie Gacoan (Sumatera),1200.0
+Perempuan,1 porsi,10000,4,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Geprek Uye,1450.0
+Laki-laki,1 porsi,8000,3,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Tidak,Warung Barokah,1100.0
+Laki-laki,1 porsi,25000,4,5,Ada dan cepat,Ada banyak,Lama (> 20 menit),Mahal,Ya,Excelso,2200.0
+Laki-laki,1 porsi,14000,4,4,Ada tapi lemot,Ada banyak,Sedang (10-20 menit),Sedang,Ya,Kulos,3000.0
+Perempuan,1 porsi,40000,5,5,Ada dan cepat,Ada banyak,Cepat (< 10 menit),Mahal,Ya,Kfc Gajah Mada,2600.0
+Perempuan,1 porsi,13000,4,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Rocket Chicken,350.0
+Laki-laki,1 porsi,17000,5,4,Tidak ada,Tidak ada,Sedang (10-20 menit),Sedang,Ya,Mie Apong,1300.0
+Perempuan,1 porsi,15000,4,5,Ada tapi lemot,Ada beberapa,Sedang (10-20 menit),Sedang,Ya,Kantin Perpus Unej,100.0
+Laki-laki,1 porsi,12000,4,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Bakso Solo,1800.0
+Perempuan,1 porsi,35000,5,5,Ada dan cepat,Ada banyak,Sedang (10-20 menit),Mahal,Ya,Solaria Roxy,3800.0
+Laki-laki,1.5 porsi,15000,5,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Lalapan Cak Riyadi,600.0
+Laki-laki,1 porsi,18000,4,3,Tidak ada,Tidak ada,Sedang (10-20 menit),Sedang,Ya,Adat Kos,2500.0
+Perempuan,1 porsi,28000,5,5,Ada dan cepat,Ada beberapa,Sedang (10-20 menit),Mahal,Ya,Pizza Hut Delivery,2200.0
+Laki-laki,1 porsi,9000,3,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Warung Tegal (Depan Unej),500.0
+Laki-laki,1 porsi,14000,4,4,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Ayam Geprek Sai,1400.0
+Perempuan,1 porsi,11000,4,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Lalapan Cinta Mastrip,650.0
+Laki-laki,1 porsi,11000,3,3,Ada tapi lemot,Ada beberapa,Sedang (10-20 menit),Murah,Ya,Kantin Fasilkom,0.0
+Perempuan,1 porsi,19000,4,5,Ada dan cepat,Ada banyak,Lama (> 20 menit),Sedang,Ya,Kopi Kenangan,900.0
+Laki-laki,1 porsi,9000,4,2,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Warung Ijo Nias,1500.0
+Perempuan,1 porsi,12000,4,4,Ada tapi lemot,Ada beberapa,Sedang (10-20 menit),Murah,Ya,Seblak Bloom,850.0
+Laki-laki,1 porsi,9000,5,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Warung Bu Sherly/Warung Pojok,1250.0
+Perempuan,1 porsi,15000,5,4,Tidak ada,Tidak ada,Sedang (10-20 menit),Sedang,Ya,Mie Gacoan (Sumatera),1200.0
+Perempuan,1 porsi,11000,4,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Geprek Uye,1450.0
+Laki-laki,1 porsi,7500,3,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Warung Barokah,1100.0
+Laki-laki,1 porsi,25000,4,5,Ada dan cepat,Ada banyak,Lama (> 20 menit),Mahal,Ya,Excelso,2200.0
+Perempuan,1 porsi,15000,4,4,Ada tapi lemot,Ada banyak,Sedang (10-20 menit),Sedang,Ya,Kulos,3000.0
+Laki-laki,1 porsi,38000,5,5,Ada dan cepat,Ada banyak,Cepat (< 10 menit),Mahal,Ya,Kfc Gajah Mada,2600.0
+Perempuan,1 porsi,13000,4,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Rocket Chicken,350.0
+Laki-laki,1 porsi,17000,5,4,Tidak ada,Tidak ada,Sedang (10-20 menit),Sedang,Ya,Mie Apong,1300.0
+Perempuan,1 porsi,16000,4,5,Ada tapi lemot,Ada beberapa,Sedang (10-20 menit),Sedang,Ya,Kantin Perpus Unej,100.0
+Laki-laki,1 porsi,13000,4,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Bakso Solo,1800.0
+Perempuan,1 porsi,35000,5,5,Ada dan cepat,Ada banyak,Sedang (10-20 menit),Mahal,Ya,Solaria Roxy,3800.0
+Laki-laki,1.5 porsi,14000,5,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Lalapan Cak Riyadi,400.0
+Perempuan,1 porsi,18000,4,3,Tidak ada,Tidak ada,Sedang (10-20 menit),Sedang,Ya,Adat Kos,2500.0
+Laki-laki,1 porsi,28000,5,5,Ada dan cepat,Ada beberapa,Sedang (10-20 menit),Mahal,Ya,Pizza Hut Delivery,2200.0
+Perempuan,1 porsi,9000,3,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Warung Tegal (Depan Unej),500.0
+Laki-laki,1 porsi,13000,4,4,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Ayam Geprek Sai,1400.0
+Perempuan,1 porsi,11000,4,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Lalapan Cinta Mastrip,650.0
+Laki-laki,1 porsi,10000,3,3,Ada tapi lemot,Ada beberapa,Sedang (10-20 menit),Murah,Ya,Kantin Fasilkom,0.0
+Perempuan,1 porsi,18000,5,5,Ada dan cepat,Ada banyak,Sedang (10-20 menit),Sedang,Ya,Legacy Coffee,2600.0
+Laki-laki,1.5 porsi,13000,4,2,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Warung Ijo Nias,1500.0
+Perempuan,1 porsi,12000,4,4,Ada tapi lemot,Ada beberapa,Sedang (10-20 menit),Murah,Ya,Seblak Bloom,850.0
+Laki-laki,1.5 porsi,13000,5,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Warung Bu Sherly/Warung Pojok,1250.0
+Perempuan,1 porsi,16000,5,4,Tidak ada,Tidak ada,Sedang (10-20 menit),Sedang,Ya,Mie Gacoan (Sumatera),1200.0
+Laki-laki,1 porsi,10000,4,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Geprek Uye,1450.0
+Perempuan,1 porsi,7500,3,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Warung Barokah,1100.0
+Laki-laki,1 porsi,25000,4,5,Ada dan cepat,Ada banyak,Lama (> 20 menit),Mahal,Ya,Excelso,2200.0
+Perempuan,1 porsi,14000,4,4,Ada tapi lemot,Ada banyak,Sedang (10-20 menit),Sedang,Ya,Kulos,3000.0
+Laki-laki,1 porsi,38000,5,5,Ada dan cepat,Ada banyak,Cepat (< 10 menit),Mahal,Ya,Kfc Gajah Mada,2600.0
+Perempuan,1 porsi,13000,4,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Rocket Chicken,350.0
+Laki-laki,1 porsi,17000,5,4,Tidak ada,Tidak ada,Sedang (10-20 menit),Sedang,Ya,Mie Apong,1300.0
+Perempuan,1 porsi,15000,4,5,Ada tapi lemot,Ada beberapa,Sedang (10-20 menit),Sedang,Ya,Kantin Perpus Unej,100.0
+Laki-laki,1 porsi,12000,4,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Bakso Solo,1800.0
+Perempuan,1 porsi,35000,5,5,Ada dan cepat,Ada banyak,Sedang (10-20 menit),Mahal,Ya,Solaria Roxy,3800.0
+Laki-laki,1 porsi,15000,5,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Lalapan Cak Riyadi,600.0
+Perempuan,1 porsi,18000,4,3,Tidak ada,Tidak ada,Sedang (10-20 menit),Sedang,Ya,Adat Kos,2500.0
+Laki-laki,1 porsi,28000,5,5,Ada dan cepat,Ada beberapa,Sedang (10-20 menit),Mahal,Ya,Pizza Hut Delivery,2200.0
+Perempuan,1 porsi,9000,3,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Warung Tegal (Depan Unej),500.0
+Laki-laki,1 porsi,14000,4,4,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Ayam Geprek Sai,1400.0
+Perempuan,1 porsi,11000,4,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Lalapan Cinta Mastrip,650.0
+Laki-laki,1 porsi,10000,3,3,Ada tapi lemot,Ada beberapa,Sedang (10-20 menit),Murah,Ya,Kantin Fasilkom,0.0
+Perempuan,1 porsi,22000,5,5,Ada dan cepat,Ada banyak,Lama (> 20 menit),Mahal,Ya,Legacy Coffee,2600.0
+Laki-laki,1 porsi,8000,4,2,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Warung Ijo Nias,1500.0
+Perempuan,1 porsi,12000,4,4,Ada tapi lemot,Ada beberapa,Sedang (10-20 menit),Murah,Ya,Seblak Bloom,850.0
+Laki-laki,1 porsi,8500,5,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Warung Bu Sherly/Warung Pojok,1250.0
+Perempuan,1 porsi,16000,5,4,Tidak ada,Tidak ada,Sedang (10-20 menit),Sedang,Ya,Mie Gacoan (Sumatera),1200.0
+Laki-laki,1 porsi,10000,4,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Geprek Uye,1450.0
+Perempuan,1 porsi,8000,3,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Warung Barokah,1100.0
+Laki-laki,1 porsi,25000,4,5,Ada dan cepat,Ada banyak,Lama (> 20 menit),Mahal,Ya,Excelso,2200.0
+Laki-laki,1 porsi,14000,4,4,Ada tapi lemot,Ada banyak,Sedang (10-20 menit),Sedang,Ya,Kulos,3000.0
+Perempuan,1 porsi,38000,5,5,Ada dan cepat,Ada banyak,Cepat (< 10 menit),Mahal,Ya,Kfc Gajah Mada,2600.0
+Laki-laki,1 porsi,13000,4,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Rocket Chicken,350.0
+Perempuan,1 porsi,17000,5,4,Tidak ada,Tidak ada,Sedang (10-20 menit),Sedang,Ya,Mie Apong,1300.0
+Laki-laki,1 porsi,16000,4,5,Ada tapi lemot,Ada beberapa,Sedang (10-20 menit),Sedang,Ya,Kantin Perpus Unej,100.0
+Perempuan,1 porsi,13000,4,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Bakso Solo,1800.0
+Laki-laki,1 porsi,35000,5,5,Ada dan cepat,Ada banyak,Sedang (10-20 menit),Mahal,Ya,Solaria Roxy,3800.0
+Perempuan,1.5 porsi,15000,5,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Lalapan Cak Riyadi,400.0
+Laki-laki,1 porsi,18000,4,3,Tidak ada,Tidak ada,Sedang (10-20 menit),Sedang,Ya,Adat Kos,2500.0
+Perempuan,1 porsi,28000,5,5,Ada dan cepat,Ada beberapa,Sedang (10-20 menit),Mahal,Ya,Pizza Hut Delivery,2200.0
+Laki-laki,1 porsi,9000,3,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Warung Tegal (Depan Unej),500.0
+Perempuan,1 porsi,14000,4,4,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Ayam Geprek Sai,1400.0
+Laki-laki,1 porsi,11000,4,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Lalapan Cinta Mastrip,650.0
+Perempuan,1 porsi,10000,3,3,Ada tapi lemot,Ada beberapa,Sedang (10-20 menit),Murah,Ya,Kantin Fasilkom,0.0
+Laki-laki,1 porsi,20000,4,5,Ada dan cepat,Ada banyak,Lama (> 20 menit),Sedang,Ya,Kopi Kenangan,900.0
+Perempuan,1.5 porsi,13000,4,2,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Warung Ijo Nias,1500.0
+Laki-laki,1 porsi,12000,4,4,Ada tapi lemot,Ada beberapa,Sedang (10-20 menit),Murah,Ya,Seblak Bloom,850.0
+Perempuan,1 porsi,9000,5,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Warung Bu Sherly/Warung Pojok,1250.0
+Laki-laki,1 porsi,16000,5,4,Tidak ada,Tidak ada,Sedang (10-20 menit),Sedang,Ya,Mie Gacoan (Sumatera),1200.0
+Perempuan,1 porsi,10000,4,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Geprek Uye,1450.0
+Laki-laki,1 porsi,8500,3,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Warung Barokah,1100.0
+Perempuan,1 porsi,25000,4,5,Ada dan cepat,Ada banyak,Lama (> 20 menit),Mahal,Ya,Excelso,2200.0
+Laki-laki,1 porsi,14000,4,4,Ada tapi lemot,Ada banyak,Sedang (10-20 menit),Sedang,Ya,Kulos,3000.0
+Perempuan,1 porsi,40000,5,5,Ada dan cepat,Ada banyak,Cepat (< 10 menit),Mahal,Ya,Kfc Gajah Mada,2600.0
+Laki-laki,1 porsi,13000,4,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Rocket Chicken,350.0
+Perempuan,1 porsi,17000,5,4,Tidak ada,Tidak ada,Sedang (10-20 menit),Sedang,Ya,Mie Apong,1300.0
+Laki-laki,1 porsi,15000,4,5,Ada tapi lemot,Ada beberapa,Sedang (10-20 menit),Sedang,Ya,Kantin Perpus Unej,100.0
+Perempuan,1 porsi,12000,4,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Bakso Solo,1800.0
+Laki-laki,1 porsi,35000,5,5,Ada dan cepat,Ada banyak,Sedang (10-20 menit),Mahal,Ya,Solaria Roxy,3800.0
+Laki-laki,1 porsi,15000,5,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Lalapan Cak Riyadi,600.0
+Perempuan,1 porsi,18000,4,3,Tidak ada,Tidak ada,Sedang (10-20 menit),Sedang,Ya,Adat Kos,2500.0
+Laki-laki,1 porsi,28000,5,5,Ada dan cepat,Ada beberapa,Sedang (10-20 menit),Mahal,Ya,Pizza Hut Delivery,2200.0
+Perempuan,1 porsi,10000,3,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Warung Tegal (Depan Unej),500.0
+Laki-laki,1 porsi,13000,4,4,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Ayam Geprek Sai,1400.0
+Perempuan,1 porsi,11000,4,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Lalapan Cinta Mastrip,650.0
+Laki-laki,1 porsi,11000,3,3,Ada tapi lemot,Ada beberapa,Sedang (10-20 menit),Murah,Ya,Kantin Fasilkom,0.0
+Perempuan,1 porsi,22000,5,5,Ada dan cepat,Ada banyak,Lama (> 20 menit),Mahal,Ya,Legacy Coffee,2600.0
+Laki-laki,1 porsi,8000,4,2,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Warung Ijo Nias,1500.0
+Perempuan,1 porsi,12000,4,4,Ada tapi lemot,Ada beberapa,Sedang (10-20 menit),Murah,Ya,Seblak Bloom,850.0
+Laki-laki,2 porsi,16000,5,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Warung Bu Sherly/Warung Pojok,1250.0
+Perempuan,1 porsi,15000,5,4,Tidak ada,Tidak ada,Sedang (10-20 menit),Sedang,Ya,Mie Gacoan (Sumatera),1200.0
+Laki-laki,1 porsi,11000,4,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Geprek Uye,1450.0
+Perempuan,1 porsi,8000,3,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Warung Barokah,1100.0
+Laki-laki,1 porsi,25000,4,5,Ada dan cepat,Ada banyak,Lama (> 20 menit),Mahal,Ya,Excelso,2200.0
+Perempuan,1 porsi,14000,4,4,Ada tapi lemot,Ada banyak,Sedang (10-20 menit),Sedang,Ya,Kulos,3000.0
+Laki-laki,1 porsi,38000,5,5,Ada dan cepat,Ada banyak,Cepat (< 10 menit),Mahal,Ya,Kfc Gajah Mada,2600.0
+Perempuan,1 porsi,13000,4,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Rocket Chicken,350.0
+Laki-laki,1 porsi,17000,5,4,Tidak ada,Tidak ada,Sedang (10-20 menit),Sedang,Ya,Mie Apong,1300.0
+Perempuan,1 porsi,15000,4,5,Ada tapi lemot,Ada beberapa,Sedang (10-20 menit),Sedang,Ya,Kantin Perpus Unej,100.0
+Laki-laki,1 porsi,12000,4,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Bakso Solo,1800.0
+Perempuan,1 porsi,35000,5,5,Ada dan cepat,Ada banyak,Sedang (10-20 menit),Mahal,Ya,Solaria Roxy,3800.0
+Laki-laki,1.5 porsi,15000,5,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Lalapan Cak Riyadi,400.0
+Perempuan,1 porsi,18000,4,3,Tidak ada,Tidak ada,Sedang (10-20 menit),Sedang,Ya,Adat Kos,2500.0
+Laki-laki,1 porsi,28000,5,5,Ada dan cepat,Ada beberapa,Sedang (10-20 menit),Mahal,Ya,Pizza Hut Delivery,2200.0
+Perempuan,1 porsi,10000,3,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Warung Tegal (Depan Unej),500.0
+Laki-laki,1 porsi,14000,4,4,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Ayam Geprek Sai,1400.0
+Perempuan,1 porsi,11000,4,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Lalapan Cinta Mastrip,650.0
+Laki-laki,1 porsi,10000,3,3,Ada tapi lemot,Ada beberapa,Sedang (10-20 menit),Murah,Ya,Kantin Fasilkom,0.0
+Perempuan,1 porsi,19000,4,5,Ada dan cepat,Ada banyak,Lama (> 20 menit),Sedang,Ya,Kopi Kenangan,900.0
+Laki-laki,1 porsi,9000,4,2,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Warung Ijo Nias,1500.0
+Perempuan,1 porsi,12000,4,4,Ada tapi lemot,Ada beberapa,Sedang (10-20 menit),Murah,Ya,Seblak Bloom,850.0
+Laki-laki,1.5 porsi,13000,5,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Warung Bu Sherly/Warung Pojok,1250.0
+Perempuan,1 porsi,15000,5,4,Tidak ada,Tidak ada,Sedang (10-20 menit),Sedang,Ya,Mie Gacoan (Sumatera),1200.0
+Laki-laki,1 porsi,10000,4,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Geprek Uye,1450.0
+Perempuan,1 porsi,8000,3,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Warung Barokah,1100.0
+Laki-laki,1 porsi,25000,4,5,Ada dan cepat,Ada banyak,Lama (> 20 menit),Mahal,Ya,Excelso,2200.0
+Perempuan,1 porsi,15000,4,4,Ada tapi lemot,Ada banyak,Sedang (10-20 menit),Sedang,Ya,Kulos,3000.0
+Laki-laki,1 porsi,38000,5,5,Ada dan cepat,Ada banyak,Cepat (< 10 menit),Mahal,Ya,Kfc Gajah Mada,2600.0
+Perempuan,1 porsi,13000,4,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Rocket Chicken,350.0
+Laki-laki,1 porsi,17000,5,4,Tidak ada,Tidak ada,Sedang (10-20 menit),Sedang,Ya,Mie Apong,1300.0
+Perempuan,1 porsi,16000,4,5,Ada tapi lemot,Ada beberapa,Sedang (10-20 menit),Sedang,Ya,Kantin Perpus Unej,100.0
+Laki-laki,1 porsi,13000,4,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Bakso Solo,1800.0
+Perempuan,1 porsi,35000,5,5,Ada dan cepat,Ada banyak,Sedang (10-20 menit),Mahal,Ya,Solaria Roxy,3800.0
+Laki-laki,1 porsi,15000,5,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Lalapan Cak Riyadi,600.0
+Perempuan,1 porsi,18000,4,3,Tidak ada,Tidak ada,Sedang (10-20 menit),Sedang,Ya,Adat Kos,2500.0
+Laki-laki,1 porsi,28000,5,5,Ada dan cepat,Ada beberapa,Sedang (10-20 menit),Mahal,Ya,Pizza Hut Delivery,2200.0
+Perempuan,1 porsi,10000,3,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Warung Tegal (Depan Unej),500.0
+Laki-laki,1 porsi,14000,4,4,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Ayam Geprek Sai,1400.0
+Laki-laki,1 porsi,11000,4,3,Tidak ada,Tidak ada,Cepat (< 10 menit),Murah,Ya,Lalapan Cinta Mastrip,650.0
