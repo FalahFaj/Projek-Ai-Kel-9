@@ -27,8 +27,6 @@ def run_clustering(df, n_clusters=3):
     for col in cols_to_clean:
         df[col] = pd.to_numeric(df[col], errors='coerce').fillna(0)
 
-    # 3. Agregasi: Mengelompokkan berdasarkan TEMPAT MAKAN
-    # Kita ingin tahu karakteristik "Tempat Makan"-nya, bukan per transaksi orang
     feature_cols = ['Biaya', 'Jarak_Meter', 'Rating_Rasa', 'Rating_Nyaman', 
                     'Wifi_Score', 'Colokan_Score', 'Waktu_Score']
     

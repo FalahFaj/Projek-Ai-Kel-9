@@ -75,6 +75,22 @@ def get_bot_response(user_msg):
             if not names: return "Waduh, belum nemu yang murah banget nih."
             return f"Buat yang dompet mahasiswa (di bawah 15rb), ini {len(names)} rekomendasinya: <b>{', '.join(names)}</b>."
 
+        # --- BARU: User cari yang MAHAL ---
+        elif "mahal" in msg or "termahal" in msg:
+            expensive = df.sort_values(by='Biaya_Angka', ascending=False).head(n)
+            names = expensive['Tempat_Makan'].tolist()
+            prices = expensive['Biaya_Format'].tolist()
+            response_lines = [f"<b>{name}</b> ({price})" for name, price in zip(names, prices)]
+            return f"Kalau cari yang premium, ini {len(names)} tempat termahal:<br>" + "<br>".join(response_lines)
+
+        # --- BARU: User cari yang JAUH ---
+        elif "jauh" in msg or "terjauh" in msg:
+            farthest = df.sort_values(by='Jarak_Meter', ascending=False).head(n)
+            names = farthest['Tempat_Makan'].tolist()
+            distances = farthest['Jarak_Meter'].apply(lambda x: f"{int(x)}m").tolist()
+            response_lines = [f"<b>{name}</b> ({distance})" for name, distance in zip(names, distances)]
+            return f"Ini {len(names)} tempat terjauh dari Fasilkom:<br>" + "<br>".join(response_lines)
+
         # C. User cari yang ENAK (Rating Rasa)
         elif "enak" in msg or "lezat" in msg or "rasa" in msg:
             tasty = df[df['Rating_Rasa'] >= 4.5].sort_values(by='Fuzzy_Score', ascending=False).head(n)
